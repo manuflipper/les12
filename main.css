@@ -1,0 +1,112 @@
+/*Alle classes hieronder */
+.bg_groen1{
+    color: white;
+    background-color: rgb(43, 75, 74);
+    }
+
+.bg_geel1{
+    background-color: rgb(255, 204, 64);
+    }
+
+.bg_geel2{
+    background-color: rgb(208, 154, 5);
+    }
+.bg_groen2{
+    background-color: rgb(16, 155, 51);
+    }
+.bg_rood{
+    background-color: rgb(247, 0, 0);
+    }
+.bg_blauw{
+    background-color: rgb(64, 89, 255);
+    }
+.bg_paars{
+    background-color: rgb(207, 64, 255);
+    }   
+.bg_oranje{
+    background-color: rgb(224, 78, 10);
+    }   
+.bg_wit{
+    background-color: white;
+    }
+
+
+
+.noborderspace {
+    /*Voor het verwijderen van de borders tussen de cellen*/
+    order-collapse: collapse;
+    border-spacing: 0;  
+   }
+
+   .tableheaders {
+       background-color: white;
+       color : black;
+       border: solid white;
+   }
+/*Alle id's hieronder */
+    #body{
+        background-color: rgb(76, 81, 92);
+    }
+
+    #cel1 {
+        background-color: rgb(255, 64, 64);
+    }
+
+    #cel2 {
+        background-color: rgb(255, 204, 64);
+    }
+
+    #cel3 {
+        background-color: rgb(112, 255, 64);
+    }
+
+    #cel4 {
+        background-color: rgb(64, 236, 255);
+    }
+
+    #cel5 {
+        background-color: rgb(64, 89, 255);
+    }
+
+    #cel6 {
+        background-color: rgb(207, 64, 255);
+    }
+
+    #cel7 {
+        background-color: rgb(82, 65, 50);
+    }
+
+    #cel8 {
+        background-color: rgb(119, 144, 125);
+    }
+    #cel9 {
+        background-color: rgb(137, 158, 243);
+    }
+
+    #cel10 {
+        background-color: rgb(224, 78, 10);
+    }
+
+    #cel11 {
+        background-color: rgb(52, 76, 77);
+    }
+
+    #cel12 {
+        background-color: rgb(170, 103, 103);
+    }
+    #cel13 {
+        background-color: rgb(146, 134, 102);
+    }
+
+    #cel14 {
+        background-color: rgb(0, 159, 143);
+    }
+
+    #cel15 {
+        background-color: rgb(236, 185, 255);
+    }
+
+    #cel16{
+        background-color: rgb(0, 0, 0);
+    }
+
